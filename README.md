@@ -1,6 +1,6 @@
-# wardrobe
+# php-wardrobe-manager
 
-A wardrobe project
+- Modern and scalable architecture
 
 ## ✨ Features
 
@@ -10,8 +10,8 @@ A wardrobe project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/wardrobe.git
-cd wardrobe
+git clone https://github.com/amitdubeyup/php-wardrobe-manager.git
+cd php-wardrobe-manager
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-wardrobe/
+php-wardrobe-manager/
 ├── .env.example
 ├── README.md
 ```
